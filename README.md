@@ -1,70 +1,103 @@
-# 👋 Hi, I'm Kunal Gurjar
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF">Kunal Gurjar</span></h1>
 
-### 💻 Web Developer | Full Stack Enthusiast | Cloud Learner  
+<h3 align="center">
+💻 Web Developer | 🚀 Full Stack Enthusiast | ☁️ Cloud Learner
+</h3>
 
-I'm a passionate web developer from Indore, India, focused on building responsive, interactive, and user-friendly web applications.  
-I love learning new technologies, designing clean UIs, and solving real-world problems with code.
+<p align="center">
+I'm a passionate developer from Indore, India, who loves creating responsive, user-friendly web apps.  
+Always exploring new tools, clean UI design, and building impactful projects.
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧠 [AI Career Coach](https://career-coach-with-ai.vercel.app/)
-**Tech Stack:** Next.js, Inngest, MongoDB, Shadcn UI, Gemini AI API  
-- Built a full-stack AI-powered career guidance platform.  
-- Provides personalized mock interviews and real-time feedback.  
-- Integrated Inngest for event-based workflows and hosted on Vercel.  
+> **Tech Stack:**  
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+> ![Inngest](https://img.shields.io/badge/Inngest-161B22?style=for-the-badge&logo=cloudflare&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+> ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-222222?style=for-the-badge)
+> ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+AI-powered career coach that simulates mock interviews, provides real-time feedback, and offers career guidance — all powered by **Gemini AI** and **Inngest workflows**.  
 
 ---
 
-### 🌍 [AquaAir Tracker (Air & Environmental Monitor)](https://air-aqua-tracker.vercel.app/)
-**Tech Stack:** Node.js, Express, Bootstrap, Arduino  
-- Real-time monitoring of air quality, temperature, and humidity.  
-- Built REST API backend for smooth data transmission between sensors and dashboard.  
-- Added analytics visualization and threshold alerts.  
+### 🌍 [AquaAir Tracker](https://air-aqua-tracker.vercel.app/)
+> **Tech Stack:**  
+> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+> ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+> ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+Real-time air quality and environmental monitor using hardware sensors and web dashboard, featuring live data visualization and alert system.  
 
 ---
 
 ### ✈️ [Travel Agency Home Screen](https://travel-agency-three-wheat.vercel.app/)
-**Tech Stack:** React.js, Next.js, Tailwind CSS, Framer Motion, Lucide Icons  
-- Dark-themed responsive frontend for a fictional travel agency.  
-- Includes hero section, destination grid, animations, and smooth user interactions.  
+> **Tech Stack:**  
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+> ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+> ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge)
+
+A dark-themed, animated travel website built with modern frontend tech — featuring smooth animations, interactive UI, and a clean layout.  
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack
 
-**Languages:** JavaScript, Core Java, C, HTML, CSS  
-**Frontend:** React.js, Next.js, Tailwind CSS, Shadcn UI  
-**Backend:** Node.js, Express, Inngest  
-**Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Vercel, VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech.) – Computer Science**  
-Institute of Engineering & Science, IPS Academy, Indore  
-📅 *2022 – 2026 (Expected)*  
-CGPA: 6.95/10  
+🎓 **B.Tech in Computer Science** – IPS Academy, Indore  
+📅 *2022 – 2026* | CGPA: **6.95 / 10**
 
 ---
 
-## 🏅 Certifications & Programs
+## 🏅 Certifications
 
-- **Accenture Simulation Program (2024)** – Real-world simulation tasks improving problem-solving & client-based skills.  
-- **Google Cloud Study Jam (2024)** – Completed 10+ hands-on GCP labs and earned multiple skill badges.
-
----
-
-## 📫 Contact Me
-
-📍 Indore, India  
-📞 +91-7417322625  
-📧 [kunalgurjar106@gmail.com](mailto:kunalgurjar106@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kunal-gurjar-481958255)  
+- 🏆 **Accenture Simulation Program (2024)**  
+- ☁️ **Google Cloud Study Jam (2024)** — 10+ GCP labs, multiple skill badges  
 
 ---
 
-⭐ **Feel free to check out my projects and connect with me!**
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:kunalgurjar106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kunal-gurjar-481958255"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://career-coach-with-ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Udaygurjar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />  
+</p>
+
+<p align="center">
+⭐ *Thanks for visiting! Always open to collaboration and new opportunities.* 🚀
+</p>
