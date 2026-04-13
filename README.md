@@ -70,20 +70,6 @@ A dark-themed, animated travel website built with modern frontend tech — featu
 
 ---
 
-## 🎓 Education
-
-🎓 **B.Tech in Computer Science** – IPS Academy, Indore  
-📅 *2022 – 2026* | CGPA: **6.95 / 10**
-
----
-
-## 🏅 Certifications
-
-- 🏆 **Accenture Simulation Program (2024)**  
-- ☁️ **Google Cloud Study Jam (2024)** — 10+ GCP labs, multiple skill badges  
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
